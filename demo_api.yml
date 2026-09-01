@@ -10,4 +10,4 @@ management:
       exposure:
         include: "*"
 
-message: This is MICROSERVICE
+message: "This is MICROSERVICE"
