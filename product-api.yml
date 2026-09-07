@@ -1,4 +1,6 @@
 spring:
+  config:
+    import: optionl:http://localhost:1111
   datasource:
     url: jdbc:mysql://localhost:3306/abhi
     username: root
