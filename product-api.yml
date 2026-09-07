@@ -2,9 +2,9 @@ spring:
   config:
     import: optionl:http://localhost:1111
   datasource:
-    url: jdbc:mysql://localhost:3306/abhi
+    url: jdbc:mysql://localhost:3306/product_service
     username: root
-    password: root
+    password: tiger
     driver-class-name: com.mysql.cj.jdbc.Driver
   jpa:
     hibernate:
